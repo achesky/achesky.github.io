@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TFW Coding Applies to Money & Banking"
-date:   2017-02-10 19:54:43 +0000
+date:   2017-02-10 14:54:44 -0500
 ---
 
 Before getting into this lab, I want to detail for a moment my experience on Learn.co so far (partly for posterity, partly because it's been a month). My coding path has been a bit confusing at times: I began with the intro courses to the FlatIron Full Stack Web Development Program which took me through Intro to Programming, some de-bugging, a lot of basics, and then an intro to Object Orientation. However, after completing only those intro portions and reviewing some basics of GitHub, I went to HTML & CSS. 
