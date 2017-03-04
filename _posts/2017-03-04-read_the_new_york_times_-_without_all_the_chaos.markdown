@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Read the New York Times - without all the chaos"
-date:   2017-03-04 21:58:06 +0000
+date:   2017-03-04 16:58:07 -0500
 ---
 
 
